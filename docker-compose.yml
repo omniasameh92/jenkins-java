@@ -1,0 +1,24 @@
+version: '3'
+services:
+ jenkins:
+    image: jenkinsci/jenkins
+    restart: always
+    container_name: jenkins-1
+    volumes:
+      - ./jenkins:/var/jenkins_home:rw
+    ports:
+      - 8080:8080
+ tomcat:
+   image: tomcat
+   restart: always
+   ports:
+      - 7777:8080
+   volumes:
+      - ./jenkins/workspace/java-test-app/target/:/usr/local/tomcat/webapps:rw
+ artifactory:
+   image: mattgruter/artifactory
+   ports:
+    - 9090:8080
+   volumes:
+    - ./artifactory:/artifactory:rw
+  

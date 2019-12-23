@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-12-23 14:59:11.948 UTC</timestamp>
+  <md5sum>2e74b04b4e2ce385b895c252ebb9b32b</md5sum>
+  <fileName>org.eclipse.jetty:jetty-client-9.4.18.v20190429.jar</fileName>
+  <usages>
+    <entry>
+      <string>java-test-app</string>
+      <ranges>1-5,7</ranges>
+    </entry>
+    <entry>
+      <string>java-test-app/devopsarea:devopsarea</string>
+      <ranges>1-5,7</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

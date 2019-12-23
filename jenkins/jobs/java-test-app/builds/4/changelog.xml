@@ -1,0 +1,10 @@
+commit e508077cf9d73a3bab523f04649d6fd2b1599e10
+tree 08b08011a70179e9c1fc7d751574db290f8e99a4
+parent 936a20dbd2b7006720063db27e6f14991af27742
+author omnia sameh <omniaawahab92@gmail.com> 2019-12-23 18:28:52 +0200
+committer omnia sameh <omniaawahab92@gmail.com> 2019-12-23 18:28:52 +0200
+
+    trigger github hook to start new jenkins build
+
+
+:100644 100644 7fd5c5714d78d41996857c97ac033418ccc12c70 2b9dac409eba81295263783e12ab94b02c7df992 M	src/main/java/HelloWorld.java

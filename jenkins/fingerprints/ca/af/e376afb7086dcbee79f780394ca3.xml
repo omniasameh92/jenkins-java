@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-12-23 14:59:11.982 UTC</timestamp>
+  <md5sum>caafe376afb7086dcbee79f780394ca3</md5sum>
+  <fileName>org.slf4j:slf4j-api-1.7.25.jar</fileName>
+  <usages>
+    <entry>
+      <string>java-test-app</string>
+      <ranges>1-5,7</ranges>
+    </entry>
+    <entry>
+      <string>java-test-app/devopsarea:devopsarea</string>
+      <ranges>1-5,7</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

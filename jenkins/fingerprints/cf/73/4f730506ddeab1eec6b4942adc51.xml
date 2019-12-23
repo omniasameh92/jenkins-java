@@ -1,0 +1,21 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-12-23 14:59:29.741 UTC</timestamp>
+  <original>
+    <name>java-test-app/devopsarea:devopsarea</name>
+    <number>2</number>
+  </original>
+  <md5sum>cf734f730506ddeab1eec6b4942adc51</md5sum>
+  <fileName>devopsarea:devopsarea-1.0.war</fileName>
+  <usages>
+    <entry>
+      <string>java-test-app</string>
+      <ranges>2</ranges>
+    </entry>
+    <entry>
+      <string>java-test-app/devopsarea:devopsarea</string>
+      <ranges>2</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-12-23 14:58:30.241 UTC</timestamp>
+  <md5sum>c11c32d7a9351de1080e2d1c06eacc49</md5sum>
+  <fileName>Credential id=ce9a15a8-82ca-446a-bbf4-95b918168fa0 name=omniasameh92/******</fileName>
+  <usages>
+    <entry>
+      <string>java-test-app</string>
+      <ranges>1-7</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

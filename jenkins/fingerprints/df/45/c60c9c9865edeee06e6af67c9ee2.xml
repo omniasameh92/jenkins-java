@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-12-23 14:59:11.957 UTC</timestamp>
+  <md5sum>df45c60c9c9865edeee06e6af67c9ee2</md5sum>
+  <fileName>com.sparkjava:spark-core-2.9.1.jar</fileName>
+  <usages>
+    <entry>
+      <string>java-test-app</string>
+      <ranges>1-5,7</ranges>
+    </entry>
+    <entry>
+      <string>java-test-app/devopsarea:devopsarea</string>
+      <ranges>1-5,7</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
